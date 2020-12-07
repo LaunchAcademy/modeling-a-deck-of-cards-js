@@ -1,4 +1,4 @@
-# Basic OOP in Js: Songs and Albums Exercise 
+# Basic OOP in JS: Songs and Albums Exercise 
 
 - create a Song class with a `title`, `duration` and `genre`
 - make a "`like`" method on your `Song` class that outputs that the user has liked the song (mention the title)
