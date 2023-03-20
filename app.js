@@ -6,12 +6,14 @@ const titanicTheme = new Song("The Titanic Theme Song", "2 hours", "romance")
 // console.log(titanicTheme.title)
 
 // debugger
-// titanicTheme.like()
+// console.log(titanicTheme.like())
+
 const sinkingShip = new Song("Sinking Ship", "1 min", "tragedy")
 const myHeart = new Song("My Heart", "too long", "romance")
 
 const songsArray = [titanicTheme, sinkingShip, myHeart]
 const titanicAlbum = new Album("Titanic NEWWWW", songsArray)
+
 // console.log(titanicAlbum.arrayOfSongObjects)
 console.log(titanicAlbum.likeAllSongs())
 // console.log(titanicAlbum.arrayOfSongObjects)
