@@ -1,8 +1,8 @@
 # Basic OOP in JS: Songs and Albums Exercise
 
 - create a Song class with a `title`, `duration` and `genre`
-- make a "`like`" method on your `Song` class that outputs that the user has liked the song (mention the title)
 - create some example `Song` objects, using the `app.js` file to run your code
+- make a "`like`" method on your `Song` class that outputs that the user has liked the song (mention the title)
 - create an `Album` class that has a name, and initializes with an array of `Song` objects
 - create an album, pass it songs, and then like the second song of that album
 
