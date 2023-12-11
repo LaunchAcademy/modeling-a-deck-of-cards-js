@@ -1,5 +1,3 @@
-class Song {
-
-}
+class Song {}
 
 export default Song
